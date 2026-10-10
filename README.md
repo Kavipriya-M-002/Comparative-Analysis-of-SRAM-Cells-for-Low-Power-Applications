@@ -45,4 +45,4 @@ This project demonstrates the impact of different leakage-power reduction techni
 ## 📚 Publication
 
 - **Publisher:** IEEE Xplore - IC3ET
-- **DOI:** 10.1109/IC3ET64989.2026.11467236
+- **DOI:** [10.1109/IC3ET64989.2026.11467236](https://doi.org/10.1109/IC3ET64989.2026.11467236)

@@ -41,3 +41,8 @@ The modified MTCMOS design achieved approximately **98.45% lower reported power*
 
 ## 🎯 Key Takeaway
 This project demonstrates the impact of different leakage-power reduction techniques on SRAM design and explores modified MTCMOS as a potential approach for low-power memory applications.
+
+## 📚 Publication
+
+- **Publisher:** IEEE Xplore - IC3ET
+- **DOI:** 10.1109/IC3ET64989.2026.11467236
